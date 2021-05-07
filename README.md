@@ -19,9 +19,10 @@ Realización de una calculadora sencilla, la cual tiene las funciones de Sumar, 
 
 # Código del programa
 
-Pantalla principal https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/java/com/example/calcolatrice/MainActivity.java
-Pantalla del resultado https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/java/com/example/calcolatrice/PantallaResultado.java
+### Pantalla principal https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/java/com/example/calcolatrice/MainActivity.java
 
-Diseño https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/res/layout/activity_main.xml
+### Pantalla del resultado https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/java/com/example/calcolatrice/PantallaResultado.java
 
-Trabajo realizado por: https://github.com/rmatcas99
+### Diseño https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/res/layout/activity_main.xml
+
+# Trabajo realizado por: https://github.com/rmatcas99
