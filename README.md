@@ -24,3 +24,4 @@ Pantalla principal https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/ma
 Pantalla del resultado https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/java/com/example/calcolatrice/PantallaResultado.java
 
 Diseño https://github.com/rmatcas99/CalculadoraAndoridStudio/blob/main/src/main/res/layout/activity_main.xml
+
